@@ -9,7 +9,7 @@ Aproveitei para adicionar alguns elementos e personalizar ao meu gosto o layout 
 <img src="teacherlist.PNG" style="heigth: 100px;">
 <img src="teacherlis.png" style="heigth: 100px;">
 
-Fiz estas alterações para incluir mais informações, para quem está utilizando a plataforma permitindo que o aluno conheça mais sobre o professor.  
+Fiz estas alterações para incluir mais informações, para quem está utilizando a plataforma. Ao clicar nestes botões o aluno terá mais informações sobre o professor.  
 
 <img src="nlw.jpg" style="heigth: 200px;">
 
