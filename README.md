@@ -6,6 +6,8 @@ Foi gratificante participar pela segunda vez deste evento que tem por objetivo i
 
 Aproveitei para adicionar alguns elementos e personalizar ao meu gosto o layout no front-end. 
 
+<img src="teacherlist.png" style="heigth: 200px;">
+
 Fiz estas alterações para incluir mais informações, para quem está utilizando a plataforma permitindo que o aluno conheça mais sobre o professor.  
 
 <img src="nlw.jpg" style="heigth: 200px;">
