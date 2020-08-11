@@ -13,6 +13,8 @@ Fiz estas alterações para incluir mais informações, para quem está utilizan
 
 <img src="nlw.jpg" style="heigth: 200px;">
 
+[![Watch the video](https://i9.ytimg.com/vi/ULeL0258c8c/mq1.jpg?sqp=CPSgyvkF&rs=AOn4CLCHzkKj9WdEL8vbj8Xuyds2BXIBpQ)](https://youtu.be/ULeL0258c8c)
+
 Abaixo tudo que é necessário para dar início ao projeto.
 
 # Introdução
